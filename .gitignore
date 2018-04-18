@@ -16,3 +16,11 @@ lsq/
 /hmnd.linq.search/obj
 /hmnd.linq.search.test/bin/Debug/netcoreapp2.0
 /hmnd.linq.search.test/obj
+
+hmnd\.linq\.search\.test/bin/
+
+hmnd\.linq\.search/bin/
+
+hmnd\.linq\.search/publish\.ps1
+
+\.vscode/

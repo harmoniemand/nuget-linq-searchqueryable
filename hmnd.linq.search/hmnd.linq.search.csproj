@@ -1,7 +1,16 @@
+
 <Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <Version>1.0.1</Version>
+    <AssemblyName>hmnd.linq.search</AssemblyName>
+    <authors>harmoniemand</authors>
+    <title>Adding full search capabillity to your linq query</title>
+    <PackageId>hmnd.linq.search</PackageId>
+    <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
+    <RepositoryUrl>https://github.com/harmoniemand/nuget-linq-searchqueryable</RepositoryUrl>
+  </PropertyGroup>
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
-
 </Project>
