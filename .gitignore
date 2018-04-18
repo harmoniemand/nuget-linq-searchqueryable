@@ -10,3 +10,9 @@ ConsoleApp1/obj/
 lsq/\.vs/
 
 lsq/
+/.vs/hmnd.linq.search/v15
+/hmnd.linq.search/bin/Debug/netstandard2.0
+/hmnd.linq.search/obj/Debug/netstandard2.0
+/hmnd.linq.search/obj
+/hmnd.linq.search.test/bin/Debug/netcoreapp2.0
+/hmnd.linq.search.test/obj
