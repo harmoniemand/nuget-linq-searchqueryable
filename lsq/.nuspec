@@ -7,10 +7,10 @@
     <authors>harmoniemand</authors>
     <owners>harmoniemand</owners>
     <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
-    <projectUrl></projectUrl>
+    <projectUrl>https://github.com/harmoniemand/nuget-linq-searchqueryable</projectUrl>
     <iconUrl></iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description></description>
+    <description>A simple package to extend linq to do full search an any queryable.</description>
     <releaseNotes></releaseNotes>
     <copyright></copyright>
     <tags></tags>
